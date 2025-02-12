@@ -1,1 +1,3 @@
-static
+function name(params) {
+  
+}
