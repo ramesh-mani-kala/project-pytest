@@ -1,3 +1,1 @@
-function name(params) {
-  return true;
-}
+static
